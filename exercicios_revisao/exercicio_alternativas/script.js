@@ -1,0 +1,9 @@
+console.log(`A resposta certa da número 6 é a letra B`);
+console.log(`A resposta certa da número 7 é a letra B`);
+console.log(`A resposta certa da número 8 é a letra C`);
+console.log(`A resposta certa da número 9 é a letra D`);
+console.log(`A resposta certa da número 10 é a letra A`);
+console.log(`A resposta certa da número 11 é a letra C`);
+console.log(`A resposta certa da número 12 é a letra B`);
+console.log(`A resposta certa da número 13 é a letra C`);
+console.log(`A resposta certa da número 15 é a letra D`);
