@@ -1,8 +1,7 @@
-let peso;
 let maior = -Infinity;
 let menor = Infinity;
-for (let i = 0; i < 8; i++) {
-  peso = +prompt("Digite o peso do Lote", 0);
+for (let i = 0; i < 6; i++) {
+  let peso = +prompt("Digite o peso do Lote", 0);
   if (peso > maior) {
     maior = peso;
   } else if (peso < menor) {

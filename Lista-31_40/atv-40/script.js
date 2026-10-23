@@ -1,6 +1,6 @@
 let maiorLote = -Infinity;
 let totalUnidades = 0;
-let contMaiorQue1000 = 0; // 1. Inicializado com 0 para não dar NaN depois
+let contMaiorQue1000 = 0; 
 
 for (let i = 0; i < 10; i++) {
   let qntDoLote = parseInt(
