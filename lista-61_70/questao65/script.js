@@ -5,6 +5,7 @@ function encontrarMaior(numeros) {
       maior = numeros[i];
     }
   }
+  return maior;
 }
 
 console.log(encontrarMaior([18, 7, 25, 12, 31, 9]));
